@@ -29,9 +29,9 @@ In this assignment you will build a scientific calculator app using modules and 
 ### Task 3
 - create a module called `unit_conversion.py`
 - define the following functions:
-- `convert_length` that takes a value in meters and converts it to feet
+- `convert_length` that takes a value in meters and converts it to feet (USE 3.2 as your conversion factor)
 - `convert_temperature` that takes a temp in celsuis and converts it to fahrenheit
-- `convert_weight` that takes a weight in kilograms and converts it to pounds.
+- `convert_weight` that takes a weight in kilograms and converts it to pounds. (USE 2.2 as your conversion factor)
 
 ### Task 4
 - create a module called `main.py`
